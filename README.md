@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Parthivs007
-- 👀 I’m interested in data visualisation, data modelling, data science and business analytics
-- 🌱 I’m currently learning Python, SQL, Tableau & Cloud Technologies 
-- 💞️ I’m currently looking for opportunities within the data space
+👋 Hi, I’m @Parthivs007
+👀 I design analytics systems, product insights, and data models that support real business decisions
 
 
 <!---
